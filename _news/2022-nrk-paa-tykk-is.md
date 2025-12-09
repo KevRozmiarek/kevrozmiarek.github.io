@@ -1,7 +1,7 @@
 ---
 layout: post
 title: På tykk is - Norwegian Documentary
-date: 2019-08-15 12:00:00-0600
+date: 2022-08-15 12:00:00-0600
 inline: false
 related_posts: false
 redirect: https://tv.nrk.no/serie/paa-tykk-is/sesong/1/episode/MUHU11000222

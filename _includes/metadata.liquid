@@ -244,4 +244,34 @@
         "@context": "https://schema.org"
     }
   </script>
+  {% comment %} Add Person schema for homepage/profile page {% endcomment %}
+  {% if page.permalink == '/' %}
+  <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "{{ author_name }}",
+        "url": "{{ site.url }}{{ site.baseurl }}/",
+        "jobTitle": "Ph.D. Candidate",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Institute of Arctic and Alpine Research, University of Colorado Boulder",
+            "url": "https://www.colorado.edu/instaar/"
+        },
+        "email": "kevin.rozmiarek@colorado.edu",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4001 Discovery Drive",
+            "addressLocality": "Boulder",
+            "addressRegion": "CO",
+            "postalCode": "80303",
+            "addressCountry": "US"
+        },
+        {% if sameaslinks != blank %}
+        "sameAs": {{ sameaslinks | jsonify }},
+        {% endif %}
+        "description": "{{ site.description | strip_html | strip_newlines | escape }}"
+    }
+  </script>
+  {% endif %}
 {% endif %}
