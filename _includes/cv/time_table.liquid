@@ -8,9 +8,16 @@
               <tbody>
                 <tr>
                   <td>
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-                      {{- content.year -}}
-                    </span>
+                    {% assign year_parts = content.year | split: ' - ' %}
+                    {% if year_parts.size > 1 %}
+                      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px; display: block; line-height: 1.2;">
+                        {{- year_parts[0] -}}<br>- {{- year_parts[1] -}}
+                      </span>
+                    {% else %}
+                      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                        {{- content.year -}}
+                      </span>
+                    {% endif %}
                   </td>
                 </tr>
                 {% if content.location %}
