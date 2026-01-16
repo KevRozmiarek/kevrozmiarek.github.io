@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-16'
 papers:
   UJ83ePwAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Multi-model Insights into \u03B413C-CH4 from Arctic Permafrost Thermokarsts"
     year: '2025'
   UJ83ePwAAAAJ:9yKSN-GCB0IC:
-    citations: 40
+    citations: 39
     title: Seasonal temperatures in West Antarctica during the Holocene
     year: '2023'
   UJ83ePwAAAAJ:IjCSPb-OGe4C:
@@ -31,7 +31,7 @@ papers:
     year: Unknown Year
   UJ83ePwAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
-    title: Identifying key volatile'fingerprints' of permafrost degradation and microbial rates of methane release
+    title: "Identifying key volatile \u2018fingerprints\u2019 of permafrost degradation and microbial rates of methane release"
     year: '2023'
   UJ83ePwAAAAJ:UeHWp8X0CEIC:
     citations: 1
@@ -78,7 +78,7 @@ papers:
     title: Collecting atmospheric air with drones
     year: '2025'
   UJ83ePwAAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 14
     title: An unmanned aerial vehicle sampling platform for atmospheric water vapor isotopes in polar environments
     year: '2021'
   UJ83ePwAAAAJ:ufrVoPGSRksC:
