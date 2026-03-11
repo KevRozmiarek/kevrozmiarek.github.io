@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-11'
 papers:
   UJ83ePwAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Multi-model Insights into \u03B413C-CH4 from Arctic Permafrost Thermokarsts"
     year: '2025'
   UJ83ePwAAAAJ:9yKSN-GCB0IC:
-    citations: 37
+    citations: 38
     title: Seasonal temperatures in West Antarctica during the Holocene
     year: '2023'
   UJ83ePwAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: EGRIP water isotope data 21.5 m (meters) to 2120.7 m depth at 5 cm resolution, from continuous flow analysis (CFA).
     year: '2022'
   UJ83ePwAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Microbial and Chemical Predictors of Methane Release from a Stratified Thermokarst Permafrost Hotspot
     year: '2025'
   UJ83ePwAAAAJ:W7OEmFMy1HYC:
@@ -74,7 +74,7 @@ papers:
     title: Increasing Biological Fidelity of Arctic Greenhouse Gas Emissions from Permafrost to Improve Climate Modeling.
     year: '2022'
   UJ83ePwAAAAJ:roLk4NBRz8UC:
-    citations: 0
+    citations: 1
     title: Collecting atmospheric air with drones
     year: '2025'
   UJ83ePwAAAAJ:u5HHmVD_uO8C:
@@ -86,6 +86,6 @@ papers:
     title: Creating a Database of Climate Extremes and Variability in Polar Ice Cores
     year: '2025'
   UJ83ePwAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: "Atmosphere to surface profiles of water\u2010vapor isotopes and meteorological conditions over the northeast Greenland ice sheet"
     year: '2025'
