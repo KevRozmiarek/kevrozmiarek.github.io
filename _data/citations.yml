@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-13'
 papers:
   UJ83ePwAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: 'Next-Generation Modeling of Global Natural Methane Fluxes: Integrating Multi-scale Observations with Knowledge-Guided Machine Learning'
-    year: Unknown Year
+    year: '2025'
   UJ83ePwAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Invaluable insights into the dynamics and water-vapor isotopes of the planetary boundary layer above the Greenland Ice Sheet from fixed-wing uncrewed aircraft samplings.
     year: '2023'
+  UJ83ePwAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: "Observation and Multi-Model Intercomparison of \u03B413C-CH4 from an Arctic Permafrost Thaw Lake"
+    year: '2025'
   UJ83ePwAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: "Multi-model Insights into \u03B413C-CH4 from Arctic Permafrost Thermokarsts"
@@ -18,7 +22,7 @@ papers:
     title: 'Front Range Water Isotopes: What Can Water Vapor Isotopes Tell Us About Mountain Meteorology?'
     year: '2026'
   UJ83ePwAAAAJ:9yKSN-GCB0IC:
-    citations: 42
+    citations: 43
     title: Seasonal temperatures in West Antarctica during the Holocene
     year: '2023'
   UJ83ePwAAAAJ:IjCSPb-OGe4C:
