@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-07'
 papers:
   UJ83ePwAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: Seasonal temperatures in West Antarctica during the Holocene
     year: '2023'
   UJ83ePwAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: "Shifts in Greenland interannual climate variability lead Dansgaard\u2013Oeschger abrupt warming by hundreds of years"
     year: '2025'
   UJ83ePwAAAAJ:KlAtU1dfN6UC:
@@ -69,6 +69,10 @@ papers:
     citations: 0
     title: 'Measuring water vapor isotopes above the Greenland Ice Sheet using unmanned aerial vehicles: a pilot study for understanding water vapor exchange.'
     year: '2019'
+  UJ83ePwAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Quantifying area-source methane fluxes with path-averaged laser beam concentration measurements and Bayesian inversion
+    year: '2026'
   UJ83ePwAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: Bridging Spatial Scales of Permafrost Methane Flux Measurements with Open Path Dual Comb Spectroscopy
