@@ -7,7 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-## Arctic hydroclimate and water isotopes
+<div class="projects">
+<a id="arctic-hydroclimate-and-water-isotopes" href="#arctic-hydroclimate-and-water-isotopes">
+  <h2 class="category">arctic hydroclimate and water isotopes</h2>
+</a>
 
 As a Research Scientist I at INSTAAR, I work with Dr. Bradley Markle to understand Arctic hydroclimate. I develop machine learning models trained on Lagrangian back trajectories (the paths air parcels take through the atmosphere) coupled to water isotope distillation. This work connects atmospheric transport and the processes that change water isotopes to the climate signals we observe in polar environments.
 
@@ -15,7 +18,6 @@ My research also spans permafrost methane, drone-based atmospheric sampling, and
 
 <!-- pages/research.md -->
 
-<div class="projects">
 <a id="posters" href="#posters">
   <h2 class="category">posters</h2>
 </a>
