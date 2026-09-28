@@ -2,10 +2,16 @@
 layout: page
 title: research
 permalink: /research/
-description: learn about my research and download some of my posters.
+description: Arctic hydroclimate, water and carbon isotopes, and research with uncrewed aircraft.
 nav: true
 nav_order: 3
 ---
+
+## Arctic hydroclimate and water isotopes
+
+As a Research Scientist I at INSTAAR, I work with Dr. Bradley Markle to understand Arctic hydroclimate. I develop machine learning models trained on Lagrangian back trajectories (the paths air parcels take through the atmosphere) coupled to water isotope distillation. This work connects atmospheric transport and the processes that change water isotopes to the climate signals we observe in polar environments.
+
+My research also spans permafrost methane, drone-based atmospheric sampling, and ice-core records. [Explore my publications and manuscripts in progress]({{ '/publications/' | relative_url }}).
 
 <!-- pages/research.md -->
 
@@ -47,7 +53,8 @@ nav_order: 3
 
 The isotopic composition of water evolves through phase changes and diffusion processes that each water parcel experiences. These isotopic signatures serve as a record of a water molecule's journey through thermodynamic space. My work focuses on understanding these atmospheric processes, connecting large-scale climate forcings with local effects to build a more complete picture of Earth's hydrological cycle.
 
-To study the atmosphere, I capature water with one of my drones, here's how that might look like:
+To study the atmosphere, I collect water vapor with drones. Here is what that looks like:
+
 <div class="row mt-3 mb-4">
     <div class="col-12 mt-3 mt-md-0">
         <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
@@ -74,7 +81,7 @@ The Arctic is warming much more rapidly than the global average, a phenomenon kn
     </div>
 </div>
 
-In a rapidly changing arctic, how do we study these governing processes? My tool is water isotopes. By measuring the isotopic composition of water, I gain a first line of observational constraints on its history, such as the conditions under which it evaporated, condensed, and fell as precipitation. When these isotope records are combined with traditional meteorological data and physical understanding of the atmosphere, they allow me to uncover new insights into the hydrological cycle and how it is evolving in a warming Arctic.
+In a rapidly changing Arctic, how do we study these governing processes? My tool is water isotopes. By measuring the isotopic composition of water, I gain a first line of observational constraints on its history, such as the conditions under which it evaporated, condensed, and fell as precipitation. When these isotope records are combined with traditional meteorological data and physical understanding of the atmosphere, they allow me to uncover new insights into the hydrological cycle and how it is evolving in a warming Arctic.
 
 <a id="carbon-isotopes-of-methane" href="#carbon-isotopes-of-methane">
   <h2 class="category">carbon isotopes of methane</h2>
@@ -95,7 +102,7 @@ Methane is a powerful greenhouse gas, and its carbon isotopes offer a kind of fi
     </div>
 </div>
 
-A core focus of my work is on permafrost regions, where long-frozen carbon is beginning to thaw and fuel methane production in boreal wetlands. Using drone-based sampling systems and advanced laboratory analyses, I collect methane directly from permafrost thaw features and measured for both its concentration and carbon-isotopic composition. These measurements improve how global methane inversion models represent permafrost sources, helping to replace crude approximations with process-based constraints grounded in real geochemical data.
+A core focus of my work is on permafrost regions, where long-frozen carbon is beginning to thaw and fuel methane production in boreal wetlands. Using drone-based sampling systems and advanced laboratory analyses, I collect methane directly from permafrost thaw features and measure both its concentration and carbon-isotopic composition. These measurements improve how global methane inversion models represent permafrost sources, helping to replace crude approximations with process-based constraints grounded in real geochemical data.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -105,6 +112,8 @@ A core focus of my work is on permafrost regions, where long-frozen carbon is be
         {% include figure.liquid path="assets/img/carbon2.jpg" title="Arctic wetland methane emissions and isotope measurements" alt="Methane flux measurements in boreal wetlands and permafrost regions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+My manuscripts in review examine methane carbon isotopes in Arctic thermokarst systems and methane-emission measurements using uncrewed aircraft and laser beams. [See these manuscripts on my publications page]({{ "/publications/" | relative_url }}).
 
 My work is motivated by the need for an early warning signal of how Arctic carbon feedbacks will shape our climate trajectory. By treating methane carbon isotopes not just as a tool, but as a central object of study, the goal is to understand what isotopic “signals” boreal landscapes are sending today and how those signals will evolve with continued warming. To find the future of methane, we need to understand its fingerprints.
 

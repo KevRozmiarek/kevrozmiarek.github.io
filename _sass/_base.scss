@@ -1496,3 +1496,30 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+// Manuscript status and accessible author expansion.
+.publications .publication-status {
+  display: inline-block;
+  margin: 0.35rem 0;
+  padding: 0.15rem 0.55rem;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 0.25rem;
+  color: var(--global-theme-color);
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.publications .author-details {
+  margin-top: 0.2rem;
+
+  summary {
+    width: fit-content;
+    cursor: pointer;
+    color: var(--global-theme-color);
+  }
+}
+
+.news-feature img {
+  width: 100%;
+  height: auto;
+}

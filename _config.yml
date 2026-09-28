@@ -4,21 +4,21 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Kevin
-middle_name: 
+middle_name:
 last_name: Rozmiarek
 contact_note: >
   Best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Graduate Research Assistant at the Institute of Arctic and Alpine Research, University of Colorado Boulder. Researching carbon isotope flux of methane derived from newly formed thermokarst permafrost features and their contribution to the Arctic methane budget using isotope-enabled biogeochemical ecosystem models.
+  Research Scientist I at the Institute of Arctic and Alpine Research, University of Colorado Boulder. Studying Arctic hydroclimate with machine learning, atmospheric back trajectories, and water isotopes, alongside research on permafrost methane and isotope geochemistry.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Kevin Rozmiarek, Arctic research, isotope geochemistry, water isotopes, carbon isotopes, methane, permafrost, climate change, polar science, INSTAAR, University of Colorado Boulder, Ph.D. candidate, geology, atmospheric science, Arctic amplification, thermokarst, drone research, ice core research
+keywords: Kevin Rozmiarek, Arctic research, isotope geochemistry, water isotopes, carbon isotopes, methane, permafrost, climate change, polar science, INSTAAR, University of Colorado Boulder, Research Scientist, Earth Science, machine learning, hydroclimate, atmospheric science, Arctic amplification, thermokarst, drone research, ice core research
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://kevrozmiarek.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -121,13 +121,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -186,6 +180,18 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - "CV for Kevin Rozmiarek_Sept_2026.pdf"
+  - PBS_Rozmiarek_Ages_of_Ice_Ad.jpg
+  - assets/json/resume.json
+  - assets/json/table_data.json
+  - assets/pdf/example_pdf.pdf
+  - assets/html/relativity.html
+  - assets/plotly/demo.html
+  - _books/
+  - _pages/books.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/dropdown.md
   - _pages/about_einstein.md
   - _pages/blog.md
   - purgecss.config.js
@@ -267,7 +273,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Rozmiarek]
-  first_name: [Kevin, K.]
+  first_name: [Kevin, Kevin S, Kevin S., K., K. S.]
 
   style: apa
   locale: en
@@ -320,6 +326,8 @@ filtered_bibtex_keywords:
     preview,
     selected,
     slides,
+    status,
+    stage,
     supp,
     video,
     website,
@@ -622,7 +630,6 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
-
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------

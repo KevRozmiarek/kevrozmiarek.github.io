@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: CV_Kevin_Rozmiarek.pdf # you can also use external links here
-description: details about me.
+description: Updated September 2026.
 toc:
   sidebar: left
 ---

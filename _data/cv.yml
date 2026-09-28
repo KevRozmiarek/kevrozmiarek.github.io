@@ -13,12 +13,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D., Geology
-      institution: Department of Geological Sciences, University of Colorado, Boulder
-      year: Exp. May 2026
+    - title: Ph.D., Earth Science
+      institution: Department of Earth Science, University of Colorado Boulder
+      year: August 2026
       description:
         - "Advisors: Dr. Tyler Jones and Dr. Irina Overeem"
-        - "Research: Understanding the carbon isotope flux of methane derived from newly formed thermokarst permafrost features and their contribution to the Arctic methane budget using isotope-enabled biogeochemical ecosystem models."
+        - "Dissertation: Revealing carbon cycle secrets in the Arctic: Biogeochemical indicators of methane escape from abrupt thaw permafrost lakes"
     - title: M.Sc., Applied Physics
       institution: Department of Physics, Colorado School of Mines
       year: May 2016
@@ -35,9 +35,15 @@
 - title: Professional Research Appointments
   type: time_table
   contents:
+    - title: Research Scientist I
+      institution: Institute of Arctic and Alpine Research, CU Boulder
+      year: August 2026 - Present
+      description:
+        - "Advisor: Dr. Bradley Markle"
+        - "Developing machine learning models trained on Lagrangian back trajectories coupled to water isotope distillation to inform hydroclimate in the Arctic."
     - title: Graduate Research Assistant
       institution: Institute of Arctic and Alpine Research, CU Boulder
-      year: August 2020 - Present
+      year: August 2020 - August 2026
       description:
         - "Advisors: Dr. Tyler Jones and Dr. Irina Overeem"
         - "Understanding the carbon isotope flux of methane derived from newly formed thermokarst permafrost features and their contribution to the Arctic methane budget using isotope-enabled biogeochemical ecosystem models."
@@ -69,20 +75,21 @@
 - title: Teaching Appointments
   type: time_table
   contents:
-    - title: Assistant Teacher
+    - title: Instructor
       institution: The University of Colorado Department of Aerospace Engineering
-      year: August 2024 - Present
+      year: 2024, 2025–2026
+      maindescription: "Terms: August–December 2024 and August 2025–May 2026."
       description:
         - Taught Graduate Projects, a master's graduate course which delivers a master's capstone project for a group of students. Advised two different groups, one group of four and another group of ten. Wrote and delivered lectures on engineering project lifecycle and relevant Earth science topics. Guided student delivery on final engineering product for developing their professional portfolios.
     - title: Teaching Assistant
       institution: The University of Colorado Department of Geological Sciences
-      year: August 2024 - December 2025
+      year: August 2025 - May 2026
       description:
         - "Supervisor: Dr. Laura Chimiak"
         - "Taught Water, Energy and Environment: An Introduction to Earth Resources, a freshman level course for non-majors. Focused on an even mixture of basic geology and modern policy topics relating to subject matter. Oversaw recitations for coursework. Included mini lectures."
     - title: Assistant Teacher
       institution: The University of Colorado Department of Atmospheric and Oceanic Sciences
-      year: August 2023 - Present
+      year: August 2023 - December 2025
       description:
         - Taught an Independent Study for two different students. Developed students' ability for independent inquiry centered around the engineering of sensors for meteorological study. Both students joined field work with project deliverables.
     - title: Teaching Assistant
@@ -119,6 +126,10 @@
 - title: Awards and Honors
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - IPCCS Travel Grant ($1500)
+        - George R. Aiken Graduate Fellowship ($3000)
     - year: 2025
       items:
         - Graduate School Fall 2025 Domestic Travel Grant ($650)
@@ -137,6 +148,11 @@
     - year: 2015
       items:
         - Best Senior Design - Colorado School of Mines Department of Physics
+
+- title: Publications
+  type: list
+  contents:
+    - '<a href="/publications/">View published research, submitted and in-review manuscripts, and work in preparation.</a>'
 
 - title: Selected Talks
   type: time_table
@@ -234,7 +250,7 @@
       institution: Started and operates a funding pool and resource for students to receive Arctic field gear based on student needs
       year: 2024 - Present
     - title: UAS Advisory Committee (UAC)
-      institution: Serves in an advisory role to the Associate Vice Chancellor for Public Safety Operations and Director of Flight Operations
+      institution: Serves in an advisory role to the Vice Chancellor for Public Safety Operations and Director of Flight Operations
       year: 2024 - Present
     - title: Graduate Student Representative to the Geology Faculty
       institution: Representative of graduate students to academic department
@@ -261,6 +277,28 @@
       institution: Visited a dozen low-income secondary schools introducing students to physics topics as a presenter and demonstrator
       year: 2012 - 2015
 
+- title: Media Coverage of Research Activities
+  type: time_table
+  contents:
+    - title: '<a href="https://www.pbs.org/show/ages-of-ice/">Ages of Ice</a>'
+      institution: PBS — Main feature
+      year: 2026
+    - title: '<a href="https://www.chronicle.com/article/the-college-where-drones-are-everywhere">The College Where Drones Are Everywhere</a>'
+      institution: The Chronicle of Higher Education — Interview
+      year: 2025
+    - title: '<a href="https://www.colorado.edu/today/2025/03/27/drone-experiment-reveals-how-greenland-ice-sheet-changing">Drone experiment reveals how Greenland ice sheet is changing</a>'
+      institution: CU Boulder Today — Interview
+      year: 2025
+    - title: '<a href="https://www.wired.com/story/arctic-permafrost-obsessed-methane-detectives/">The Arctic’s Permafrost-Obsessed Methane Detectives</a>'
+      institution: WIRED — Appearance
+      year: 2023
+    - title: '<a href="https://tv.nrk.no/serie/paa-tykk-is/">På tykk is</a>'
+      institution: NRK TV — Interview
+      year: 2023
+    - title: '<a href="https://www.hbo.com/movies/ice-on-fire">Ice on Fire</a>'
+      institution: HBO — Appearance
+      year: 2019
+
 - title: Technical Skills
   type: nested_list
   contents:
@@ -268,10 +306,13 @@
       items:
         - Running large scale Earth System Models on high performance computing clusters (Terrestrial Ecosystem Model, isoTEM)
         - Software licensing agreement for payload control software with Black Swift Technologies
-        - Professional experience with Python, MATLAB, R, Mathematica, C++, Lua, and Java
+        - Professional experience with Python, MATLAB, R, Mathematica, React, TypeScript, C++, Lua, and Java
     - title: Software Tools
       items:
         - Autodesk Fusion, EAGLE, SolidWorks, LabVIEW, Inkscape, SIMION, PIX4Mapper, Microsoft Office Suite
+    - title: AI Tools
+      items:
+        - Claude Code, Codex, Midjourney, Kling, Perplexity, ChatGPT
     - title: Laboratory Skills
       items:
         - Isotope ratio mass spectrometry (magnetic sector, quadrupole, and ion trap)

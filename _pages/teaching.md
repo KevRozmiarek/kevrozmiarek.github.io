@@ -7,9 +7,12 @@ nav: true
 nav_order: 6
 ---
 
- In my teaching, I integrate Earth system science with technological applications, grounding course content in contemporary challenges. Today's complex global issues require students to develop sophisticated, multi-faceted perspectives. I connect course material to students' personal experiences, current events, and their visions for the future. Through this approach, I aim to equip students with the knowledge to address Earth system challenges, build resilience when facing the difficulties these problems present, and adapt to the increasing impact these issues have on societal well-being.
+In my teaching, I integrate Earth system science with technological applications, grounding course content in contemporary challenges. Today's complex global issues require students to develop sophisticated, multi-faceted perspectives. I connect course material to students' personal experiences, current events, and their visions for the future. Through this approach, I aim to equip students with the knowledge to address Earth system challenges, build resilience when facing the difficulties these problems present, and adapt to the increasing impact these issues have on societal well-being.
 
-I don't just work with college students because Earth science connects to all ages: 
+At CU Boulder, I served as an Instructor for Aerospace Engineering Graduate Projects in August–December 2024 and August 2025–May 2026, advising teams of four and ten students on capstone projects. I also taught independent studies in Atmospheric and Oceanic Sciences from August 2023 to December 2025 and served as a teaching assistant for _Water, Energy and Environment: An Introduction to Earth Resources_ from August 2025 to May 2026.
+
+I don't just work with college students because Earth science connects to all ages:
+
 <div class="row mt-3">
     <div class="col-12 mt-3 mt-md-0">
         <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
@@ -25,9 +28,9 @@ I don't just work with college students because Earth science connects to all ag
 
 <br/><br/>
 
-## education far and wide 
+## education far and wide
 
-Students with the ability to pay for college aren't the only people that deserve access to a world-class education. I make it a point to reach out to communities outside the ivory tower. In recent times, I have led workshops in indigenous communities across Alaska. Here, I lead on how to navigate the technological space of drones, the community-led science they are used for, and the issues important to those communities. 
+Students with the ability to pay for college aren't the only people that deserve access to a world-class education. I make it a point to reach out to communities outside the ivory tower. In recent times, I have led workshops in indigenous communities across Alaska. Here, I lead on how to navigate the technological space of drones, the community-led science they are used for, and the issues important to those communities.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,7 +45,7 @@ Students with the ability to pay for college aren't the only people that deserve
 
 ## my students design cool things
 
-Scientific research receives public funding with the expectation that understanding our world will yield practical solutions and the technologies needed to implement them. Through my work with independent studies and advising graduate students in Aerospace Engineering, I work with students to design the next phase of sensors and techniques for understanding our climate system.
+Scientific research receives public funding with the expectation that understanding our world will yield practical solutions and the technologies needed to implement them. Through independent studies and Aerospace Engineering graduate projects, I advised students as they designed sensors and techniques for understanding our climate system.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -62,4 +65,4 @@ Scientific research receives public funding with the expectation that understand
     </div>
 </div>
 
-For more information on my teaching, whether it's in the classroom or as part of the outreach, please see my CV.
+For more information on my teaching, whether it's in the classroom or as part of the outreach, please see [my CV]({{ "/cv/" | relative_url }}).
