@@ -102,11 +102,39 @@ ninja.data = [{
           window.open("mailto:%6B%65%76%69%6E.%72%6F%7A%6D%69%61%72%65%6B@%63%6F%6C%6F%72%61%64%6F.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/KevRozmiarek", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/kevin-rozmiarek-0610b358", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-4065-8259", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=UJ83ePwAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.colorado.edu/instaar/kevin-rozmiarek", "_blank");
         },
       },{
       id: 'light-theme',
