@@ -1,11 +1,14 @@
 ---
 layout: page
 title: news
+seo_title: News & Media | Kevin Rozmiarek
+seo_description: News and media featuring Arctic climate scientist Kevin Rozmiarek, including PBS’s Ages of Ice, drone research, and permafrost methane fieldwork.
 permalink: /news/
 nav: true
 nav_order: 1
 description: field research, media appearances, and milestones.
 og_image: https://kevrozmiarek.github.io/assets/img/PBS_Rozmiarek_Ages_of_Ice_Ad.jpg
+og_image_alt: Kevin Rozmiarek featured in the PBS documentary series Ages of Ice
 ---
 
 <section class="news-feature row align-items-center mb-5" aria-labelledby="ages-of-ice-title">

@@ -1,12 +1,14 @@
 ---
 layout: about
 title: about
+seo_title: Kevin Rozmiarek | Arctic Climate Scientist | CU Boulder
 permalink: /
 subtitle: Research Scientist I · <a href='https://www.colorado.edu/instaar/'>Institute of Arctic and Alpine Research</a>, <a href='https://www.colorado.edu/'>University of Colorado Boulder</a>
 
 profile:
   align: right
   image: prof_pic.jpg
+  image_alt: Kevin Rozmiarek, Arctic climate scientist at CU Boulder
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>4001 Discovery Drive</p>
@@ -27,5 +29,7 @@ Isotopes carry clues to the physical and chemical processes happening all around
 I completed my Ph.D. in Earth Science at CU Boulder in August 2026, advised by Dr. Tyler Jones and Dr. Irina Overeem. My dissertation explored the biogeochemical indicators of methane escape from abrupt-thaw permafrost lakes.
 
 You might find me in the lab, tuning instruments and processing samples; at my computer, building and testing numerical models; or deep in the field, flying drones and collecting data to better understand Earth’s climate system. I work in glacial and permafrost landscapes where Arctic amplification is driving rapid environmental change. The hydrological and carbon cycles are complex. My research focuses on developing tools and frameworks that help the scientific community interpret these isotope signals so that we can respond more effectively to a changing climate. If you are interested in polar science, isotope geochemistry, or climate change, please reach out to connect.
+
+I publish as **Kevin S. Rozmiarek**. Explore my [research]({{ '/research/' | relative_url }}), [publications]({{ '/publications/' | relative_url }}), and [CV]({{ '/cv/' | relative_url }}).
 
 P.S. It's pronounced: Rose 🌹 mare 🐴 ick 🤮

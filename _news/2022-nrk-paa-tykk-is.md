@@ -5,6 +5,7 @@ date: 2023-01-01 12:00:00-0700
 date_format: "%Y"
 inline: false
 related_posts: false
+sitemap: false
 redirect: https://tv.nrk.no/serie/paa-tykk-is/sesong/1/episode/MUHU11000222
 ---
 

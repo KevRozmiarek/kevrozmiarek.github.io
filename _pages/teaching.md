@@ -2,6 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
+seo_title: Teaching & Outreach | Kevin Rozmiarek
+seo_description: Kevin Rozmiarek’s teaching and outreach in Earth science, aerospace engineering, drone technology, and community-led environmental research.
 description: curating the next generation of scholars for a world that needs them.
 nav: true
 nav_order: 6

@@ -4,6 +4,7 @@ title: My Arctic research is featured in PBS's Ages of Ice
 date: 2026-09-16 12:00:00-0600
 inline: false
 related_posts: false
+sitemap: false
 redirect: https://www.pbs.org/show/ages-of-ice/
 ---
 

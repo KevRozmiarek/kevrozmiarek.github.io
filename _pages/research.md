@@ -1,6 +1,8 @@
 ---
 layout: page
 title: research
+seo_title: Arctic Climate Research | Kevin Rozmiarek
+seo_description: Kevin Rozmiarek’s research on Arctic hydroclimate, water vapor isotopes, permafrost methane, machine learning, and atmospheric sampling with drones.
 permalink: /research/
 description: Arctic hydroclimate, water and carbon isotopes, and research with uncrewed aircraft.
 nav: true

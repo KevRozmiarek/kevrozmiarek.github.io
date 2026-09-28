@@ -2,6 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
+seo_title: Publications | Kevin Rozmiarek
+seo_description: Publications and manuscripts by Kevin S. Rozmiarek on Arctic hydroclimate, water isotopes, permafrost methane, ice cores, and drone-based measurements.
 description: published research and manuscripts in progress.
 nav: true
 nav_order: 2
