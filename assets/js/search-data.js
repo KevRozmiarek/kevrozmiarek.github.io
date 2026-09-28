@@ -11,28 +11,28 @@ ninja.data = [{
     },
   },{id: "nav-news",
           title: "news",
-          description: "",
+          description: "field research, media appearances, and milestones.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "read about my research.",
+          description: "published research and manuscripts in progress.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-research",
           title: "research",
-          description: "learn about my research and download some of my posters.",
+          description: "Arctic hydroclimate, water and carbon isotopes, and research with uncrewed aircraft.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "details about me.",
+          description: "Updated September 2026.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -44,29 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "news-på-tykk-is-norwegian-documentary",
+        },{id: "news-ice-on-fire-hbo-documentary",
+          title: 'Ice on Fire — HBO documentary',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2019-ice-on-fire/";
+            },},{id: "news-på-tykk-is-norwegian-documentary",
           title: 'På tykk is - Norwegian Documentary',
           description: "",
           section: "News",handler: () => {
@@ -96,6 +79,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-chronicle-drones-everywhere/";
+            },},{id: "news-i-completed-my-ph-d-in-earth-science-at-cu-boulder-and-joined-instaar-as-a-research-scientist-i-working-with-dr-bradley-markle-on-arctic-hydroclimate-machine-learning-and-water-isotopes-read-more-about-my-research",
+          title: 'I completed my Ph.D. in Earth Science at CU Boulder and joined INSTAAR...',
+          description: "",
+          section: "News",},{id: "news-my-arctic-research-is-featured-in-pbs-39-s-ages-of-ice",
+          title: 'My Arctic research is featured in PBS&amp;#39;s Ages of Ice',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-16-ages-of-ice/";
             },},{
         id: 'social-cv',
         title: 'CV',
