@@ -11,7 +11,7 @@ nav_order: 6
 
 In my teaching, I integrate Earth system science with technological applications, grounding course content in contemporary challenges. Today's complex global issues require students to develop sophisticated, multi-faceted perspectives. I connect course material to students' personal experiences, current events, and their visions for the future. Through this approach, I aim to equip students with the knowledge to address Earth system challenges, build resilience when facing the difficulties these problems present, and adapt to the increasing impact these issues have on societal well-being.
 
-At CU Boulder, I served as an Instructor for Aerospace Engineering Graduate Projects in August–December 2024 and August 2025–May 2026, advising teams of four and ten students on capstone projects. I also taught independent studies in Atmospheric and Oceanic Sciences from August 2023 to December 2025 and served as a teaching assistant for _Water, Energy and Environment: An Introduction to Earth Resources_ from August 2025 to May 2026.
+At CU Boulder, I served as an Instructor for Aerospace Engineering Graduate Projects in August–December 2024 and August 2025–May 2026, advising teams of four and eleven students on capstone projects. I also taught independent studies in Atmospheric and Oceanic Sciences from August 2023 to December 2025 and served as a teaching assistant for _Water, Energy and Environment: An Introduction to Earth Resources_ from August 2025 to May 2026.
 
 I don't just work with college students because Earth science connects to all ages:
 

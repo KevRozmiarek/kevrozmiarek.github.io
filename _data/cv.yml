@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D., Earth Science
+    - title: Ph.D., Geology
       institution: Department of Earth Science, University of Colorado Boulder
       year: August 2026
       description:
@@ -80,7 +80,7 @@
       year: 2024, 2025–2026
       maindescription: "Terms: August–December 2024 and August 2025–May 2026."
       description:
-        - Taught Graduate Projects, a master's graduate course which delivers a master's capstone project for a group of students. Advised two different groups, one group of four and another group of ten. Wrote and delivered lectures on engineering project lifecycle and relevant Earth science topics. Guided student delivery on final engineering product for developing their professional portfolios.
+        - Taught Graduate Projects, a master's graduate course which delivers a master's capstone project for a group of students. Advised two different groups, one group of four and another group of eleven. Wrote and delivered lectures on engineering project lifecycle and relevant Earth science topics. Guided student delivery on final engineering product for developing their professional portfolios.
     - title: Teaching Assistant
       institution: The University of Colorado Department of Geological Sciences
       year: August 2025 - May 2026
@@ -128,7 +128,7 @@
   contents:
     - year: 2026
       items:
-        - IPCCS Travel Grant ($1500)
+        - IPICS Travel Grant ($1500)
         - George R. Aiken Graduate Fellowship ($3000)
     - year: 2025
       items:
@@ -152,7 +152,7 @@
 - title: Publications
   type: list
   contents:
-    - '<a href="/publications/">View published research, submitted and in-review manuscripts, and work in preparation.</a>'
+    - '<a href="/publications/">View published research and manuscripts submitted or under review.</a>'
 
 - title: Selected Talks
   type: time_table
