@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Updated September 2026.",
+          description: "Updated November 2026.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -79,8 +79,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-chronicle-drones-everywhere/";
-            },},{id: "news-i-completed-my-ph-d-in-earth-science-at-cu-boulder-and-joined-instaar-as-a-research-scientist-i-working-with-dr-bradley-markle-on-arctic-hydroclimate-machine-learning-and-water-isotopes-read-more-about-my-research",
-          title: 'I completed my Ph.D. in Earth Science at CU Boulder and joined INSTAAR...',
+            },},{id: "news-i-completed-my-ph-d-in-geology-at-cu-boulder-and-joined-instaar-as-a-research-scientist-i-working-with-dr-bradley-markle-on-arctic-hydroclimate-machine-learning-and-water-isotopes-read-more-about-my-research",
+          title: 'I completed my Ph.D. in Geology at CU Boulder and joined INSTAAR as...',
           description: "",
           section: "News",},{id: "news-my-arctic-research-is-featured-in-pbs-39-s-ages-of-ice",
           title: 'My Arctic research is featured in PBS&amp;#39;s Ages of Ice',
